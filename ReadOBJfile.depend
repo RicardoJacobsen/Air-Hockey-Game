@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1622381156 source:c:\users\ricar\desktop\murdoch units\ict289\readobjfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1621733984 c:\users\ricar\desktop\murdoch units\ict289\readobjfile\include\objloader.h
+	<gl/freeglut.h>
+
+1621734328 source:c:\users\ricar\desktop\murdoch units\ict289\readobjfile\src\objloader.cpp
+	"ObjLoader.h"
+
+1621776206 c:\users\ricar\desktop\murdoch units\ict289\readobjfile\object.h
+	<gl/freeglut.h>
+
+1622428388 source:c:\users\ricar\desktop\murdoch units\ict289\readobjfile\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	"Object.h"
+
+1622454906 source:c:\users\ricar\desktop\murdoch units\ict289\readobjfile - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622459236 c:\users\ricar\desktop\murdoch units\ict289\readobjfile - copy\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622460719 source:c:\users\ricar\desktop\murdoch units\ict289\readobjfile - copy\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	"Object.h"
+	<sys/stat.h>
+
+1622454906 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622459236 c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - copy\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622465003 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - copy\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	"Object.h"
+	<sys/stat.h>
+
+1622475790 source:c:\users\ricar\desktop\murdoch units\ict289\readobjfile - saved\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622475576 c:\users\ricar\desktop\murdoch units\ict289\readobjfile - saved\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622476329 source:c:\users\ricar\desktop\murdoch units\ict289\readobjfile - saved\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	"Object.h"
+	<sys/stat.h>
+
+1622482310 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - saved\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622513046 c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - saved\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622513330 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - saved\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	"Object.h"
+	<sys/stat.h>
+
+1622527208 source:c:\users\drift\desktop\readobjfile - saved\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622521676 c:\users\drift\desktop\readobjfile - saved\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622527847 source:c:\users\drift\desktop\readobjfile - saved\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"Object.h"
+	<sys/stat.h>
+
+1622530882 source:c:\users\user\desktop\readobjfile - michael\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622530564 c:\users\user\desktop\readobjfile - michael\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622534477 source:c:\users\user\desktop\readobjfile - michael\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"Object.h"
+	<sys/stat.h>
+
+1622573872 source:c:\users\user\desktop\readobjfile - michael - save 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622573876 c:\users\user\desktop\readobjfile - michael - save 1\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622577553 source:c:\users\user\desktop\readobjfile - michael - save 1\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"Object.h"
+	<sys/stat.h>
+
+1622695081 source:c:\users\drift\desktop\readobjfile - michael - save 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"Object.h"
+
+1622705616 c:\users\drift\desktop\readobjfile - michael - save 1\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1622731872 source:c:\users\drift\desktop\readobjfile - michael - save 1\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"Object.h"
+	<sys/stat.h>
+
+1623058626 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"Object.h"
+	"readFile.h"
+
+1623064329 c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1623066810 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"Object.h"
+	"readFile.h"
+	"physics.h"
+	"AI.h"
+
+1623062094 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\ai.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	"AI.h"
+
+1623059799 c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\readfile.h
+	<gl/freeglut.h>
+	<math.h>
+
+1623065296 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\readfile.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	"readFile.h"
+
+1623061167 c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\ai.h
+	<gl/freeglut.h>
+
+1623059077 c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"Object.h"
+	"readFile.h"
+	"AI.h"
+
+1623064074 c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\physics.h
+	<gl/freeglut.h>
+
+1623063834 source:c:\users\user\documents\uni\semester 1 - 2021\computer graphics principles and programming\readobjfile - michael - save 1\physics.c
+	<stdio.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"physics.h"
+
+1623004626 source:c:\users\ricar\desktop\murdoch units\ict289\air hockey emulator - project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"Object.h"
+	"readFile.h"
+
+1623010328 c:\users\ricar\desktop\murdoch units\ict289\air hockey emulator - project\object.h
+	<gl/freeglut.h>
+	<windows.h>
+	<math.h>
+
+1623005798 c:\users\ricar\desktop\murdoch units\ict289\air hockey emulator - project\readfile.h
+	<gl/freeglut.h>
+	<math.h>
+
+1623012810 source:c:\users\ricar\desktop\murdoch units\ict289\air hockey emulator - project\object.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<gl/freeglut.h>
+	<stdbool.h>
+	<math.h>
+	"Object.h"
+	"readFile.h"
+	"physics.h"
+	"AI.h"
+
+1623010074 c:\users\ricar\desktop\murdoch units\ict289\air hockey emulator - project\physics.h
+	<gl/freeglut.h>
+
+1623007166 c:\users\ricar\desktop\murdoch units\ict289\air hockey emulator - project\ai.h
+	<gl/freeglut.h>
+
+1623011296 source:c:\users\ricar\desktop\murdoch units\ict289\air hockey emulator - project\readfile.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	"readFile.h"
+
